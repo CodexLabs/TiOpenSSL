@@ -1,10 +1,17 @@
-Appcelerator Titanium iPhone Module Project
+TiOpenSSL
 ===========================================
 
-This is a skeleton Titanium Mobile iPhone module project.  Modules can be 
-used to extend the functionality of Titanium by providing additional native
-code that is compiled into your application at build time and can expose certain
-APIs into JavaScript. 
+This is an example module for CodexCasts.com
+
+This does wrap OpenSSL, but very few of OpenSSL's methods have been wrapped.
+Also, consider looking at http://opensslrampage.org/
+
+If you are serious about using OpenSSL, you really should consider using LibreSSL
+or even better the iOS CommonCrypto library.
+
+https://developer.apple.com/library/mac/documentation/security/conceptual/cryptoservices/GeneralPurposeCrypto/GeneralPurposeCrypto.html
+
+
 
 MODULE NAMING
 --------------
