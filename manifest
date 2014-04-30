@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.0.1
+apiversion: 2
+description: My module
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2014 by Your Company
+
+
+# these should not be edited
+name: TiOpenSSL
+moduleid: com.codexlabs.tiopenssl
+guid: 192533ac-ffb7-4bfc-a799-64a30ab3632b
+platform: iphone
+minsdk: 3.2.2.GA
